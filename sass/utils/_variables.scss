@@ -37,11 +37,7 @@
   /* Задержки анимации */
   --btn-timing: 250ms;
   --modal-timing: 500ms;
-}
 
-body {
-  background-color: var(--primary-bg-color);
-  color: var(--primary-text-color);
-  font-family: "Roboto", sans-serif;
-  letter-spacing: 0.03em;
+  // Шрифт
+  --font-family: "Roboto", sans-serif;
 }
